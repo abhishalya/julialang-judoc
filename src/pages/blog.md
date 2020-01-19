@@ -1,20 +1,12 @@
 @def title = "The Julia Blog"
 
-~~~
-{{ insert head.html }}
-~~~
+<!--  
+General notes
 
-<!-- <head>
-  <meta name="description" content="This blog discusses numerical, technical, distributed and parallel computing, as well as programming language design in the scope of Julia. Read more here."/>
-</head> -->
-
-~~~
-{{ insert mainmenu.html }}
-~~~
-
-~~~
-<br /><br />
-~~~
+- meta description      => see head.html`
+- inclusion of mainmenu =>  see head.html; note that you can  use joker like syntax so  that you don't have  to explicitly specify  all pages
+- if you want to introduce hard spaces, you're better off with  div blocks that you could define for instance @@blank @@ and then have some css for `.blank` that puts some vertical space. You can then define a command `\vspace` that wraps  around that.
+-->
 
 ```julia:posts
 #hideall
@@ -30,31 +22,17 @@ end
 println("~~~")
 ```
 
-~~~
-<div class="container">
+@@container
+@@row
+~~~<div class="col-12">~~~
+# The Julia Blog
 
-  <div class="row">
-    <div class="col-12">
-      <h1>The Julia Blog</h1>
+The Julia blog discusses issues of numerical, technical, distributed and parallel computing, as well as programming language design, and how these issues touch upon the design and implementation of the Julia programming language. Also see the [Julia Computing](https://juliacomputing.com/blog/) for another source of information regarding ongoing Julia development.
 
-      <p>The Julia blog discusses issues of numerical, technical, distributed and parallel computing, as well as programming language design, and how these issues touch upon the design and implementation of the Julia programming language. Also see the <a href="http://juliacomputing.com/blog/">Julia Computing blog</a> for another source of information regarding ongoing Julia development.</p>
-      <p>Blogs from the broader Julia community can be found at <a href="https://www.juliabloggers.com">Julia Bloggers</a>.</p>
-
-      <div class="row">
-~~~
-          \textoutput{posts}
-~~~
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-~~~
-
-~~~
-<br />
-~~~
-
-~~~
-{{ insert foot.html }}
-~~~
+Blogs from the broader Julia community can be found at [Julia Bloggers](https://www.juliabloggers.com).
+~~~</div>~~~
+@@
+@@row
+  \textoutput{posts}
+@@
+@@

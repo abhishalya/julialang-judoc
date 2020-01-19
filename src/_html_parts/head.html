@@ -10,6 +10,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Official website for the Julia programming language. Join the Julia community today.">
 
+  {{ispage pub/blog.html}}
+    <meta name="description" content="This blog discusses numerical, technical, distributed and parallel computing, as well as programming language design in the scope of Julia. Read more here."/>
+  {{end}}
+
   <meta property="og:title" content="The Julia Language"/>
   <meta property="og:image" content="http://www.julialang.org/images/julia-open-graph.png"/>
   <meta property="og:description" content="Official website for the Julia programming language"/>
@@ -26,5 +30,7 @@
 
   {{ insert google-analytics.html }}
 </head>
+
+{{ispage pub/*}}{{insert mainmenu.html}}{{end}}
 
 <body>
