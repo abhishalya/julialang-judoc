@@ -1,0 +1,532 @@
+~~~
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-02-14-why-we-created-julia-zh_CN.html" class="title">2012-02-14-why-we-created-julia-zh_CN</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-02-14-why-we-created-julia.html" class="title">2012-02-14-why-we-created-julia</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-02-27-talk-announcement.html" class="title">2012-02-27-talk-announcement</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-03-01-stanford-talk-video.html" class="title">2012-03-01-stanford-talk-video</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-03-11-shelling-out-sucks.html" class="title">2012-03-11-shelling-out-sucks</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-03-24-lang-next-talk-announcement.html" class="title">2012-03-24-lang-next-talk-announcement</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-04-18-nyc-open-stats-meetup-announcement.html" class="title">2012-04-18-nyc-open-stats-meetup-announcement</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2012-08-16-design-and-implementation-of-julia.html" class="title">2012-08-16-design-and-implementation-of-julia</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-03-05-efficient-aggregates.html" class="title">2013-03-05-efficient-aggregates</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-03-30-julia-tutorial-MIT.html" class="title">2013-03-30-julia-tutorial-MIT</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-04-05-distributed-numerical-optimization.html" class="title">2013-04-05-distributed-numerical-optimization</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-04-08-put-this-in-your-pipe.html" class="title">2013-04-08-put-this-in-your-pipe</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-05-10-callback.html" class="title">2013-05-10-callback</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-05-23-graphical-user-interfaces-part1.html" class="title">2013-05-23-graphical-user-interfaces-part1</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-05-23-graphical-user-interfaces-part2.html" class="title">2013-05-23-graphical-user-interfaces-part2</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2013-09-04-fast-numeric.html" class="title">2013-09-04-fast-numeric</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2014-08-09-juliacon-opening-session.html" class="title">2014-08-09-juliacon-opening-session</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2014-08-09-juliacon-opt-session.html" class="title">2014-08-09-juliacon-opt-session</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2014-08-20-julia-0.3-release.html" class="title">2014-08-20-julia-0.3-release</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-05-23-jsoc-cfp.html" class="title">2015-05-23-jsoc-cfp</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-05-30-juliacon-preview.html" class="title">2015-05-30-juliacon-preview</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-09-julia-0.4-release.html" class="title">2015-10-09-julia-0.4-release</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-16-nullablearrays.html" class="title">2015-10-16-nullablearrays</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-20-compose3d-threejs.html" class="title">2015-10-20-compose3d-threejs</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-21-biojulia-sequence-analysis.html" class="title">2015-10-21-biojulia-sequence-analysis</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-22-glvisualize.html" class="title">2015-10-22-glvisualize</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-23-auto-diff-in-julia.html" class="title">2015-10-23-auto-diff-in-julia</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2015-10-25-datastreams.html" class="title">2015-10-25-datastreams</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-01-07-atom-work.html" class="title">2016-01-07-atom-work</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-02-01-iteration.html" class="title">2016-02-01-iteration</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-03-01-parallelaccelerator.html" class="title">2016-03-01-parallelaccelerator</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-03-27-arrays-iteration.html" class="title">2016-03-27-arrays-iteration</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-04-14-gsoc.html" class="title">2016-04-14-gsoc</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-04-30-biojulia2016.html" class="title">2016-04-30-biojulia2016</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-05-08-juliacon-invitation.html" class="title">2016-05-08-juliacon-invitation</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-08-17-announcing-support-for-complex-domain-linear-programs-in-Convex.jl.html" class="title">2016-08-17-announcing-support-for-complex-domain-linear-programs-in-Convex.jl</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-08-22-GSoC2016-Graft.html" class="title">2016-08-22-GSoC2016-Graft</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-09-10-biojulia2016-mid.html" class="title">2016-09-10-biojulia2016-mid</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-09-21-juliacon2016.html" class="title">2016-09-21-juliacon2016</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-10-03-StructuredQueries.html" class="title">2016-10-03-StructuredQueries</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-10-10-julia-0.5-release.html" class="title">2016-10-10-julia-0.5-release</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2016-10-11-julia-0.5-highlights.html" class="title">2016-10-11-julia-0.5-highlights</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-01-21-moredots.html" class="title">2017-01-21-moredots</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-03-14-cudanative.html" class="title">2017-03-14-cudanative</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-03-14-piday.html" class="title">2017-03-14-piday</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-03-18-julia-fresh-paper.html" class="title">2017-03-18-julia-fresh-paper</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-04-18-offset-arrays.html" class="title">2017-04-18-offset-arrays</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-04-25-repl-0.6-highlights.html" class="title">2017-04-25-repl-0.6-highlights</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-05-03-raspberry-pi-julia.html" class="title">2017-05-03-raspberry-pi-julia</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-06-27-julia-0.6-release.html" class="title">2017-06-27-julia-0.6-release</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-08-09-dsl.html" class="title">2017-08-09-dsl</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-08-15-juliacon.html" class="title">2017-08-15-juliacon</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-08-23-native-julia-implementations-of-iterative-solvers-for-numerical-linear-algebra.html" class="title">2017-08-23-native-julia-implementations-of-iterative-solvers-for-numerical-linear-algebra</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-08-28-gsoc-docs-in-juno.html" class="title">2017-08-28-gsoc-docs-in-juno</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-09-01-gsoc-fenics.html" class="title">2017-09-01-gsoc-fenics</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-09-03-GSOC-MCMC-with-flexible-numbers-of-parameters.html" class="title">2017-09-03-GSOC-MCMC-with-flexible-numbers-of-parameters</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-09-06-gsoc-derivative_operators.html" class="title">2017-09-06-gsoc-derivative_operators</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-09-07-bio-parallel.html" class="title">2017-09-07-bio-parallel</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-09-19-Hamiltonian-Indirect-Inference.html" class="title">2017-09-19-Hamiltonian-Indirect-Inference</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-10-05-command-interpolation-for-dummies.html" class="title">2017-10-05-command-interpolation-for-dummies</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-10-13-gsoc-NeuralNetDiffEq.html" class="title">2017-10-13-gsoc-NeuralNetDiffEq</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-11-01-gsoc-ode.html" class="title">2017-11-01-gsoc-ode</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-12-06-ml&pl.html" class="title">2017-12-06-ml&pl</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-12-20-ml&pl-cn.html" class="title">2017-12-20-ml&pl-cn</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2017-12-25-ml&pl-zh_tw.html" class="title">2017-12-25-ml&pl-zh_tw</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-02-21-gsoc2018-numfocus.html" class="title">2018-02-21-gsoc2018-numfocus</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-03-14-pifonts.html" class="title">2018-03-14-pifonts</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-04-01-tetris-and-you.html" class="title">2018-04-01-tetris-and-you</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-05-11-extensible-broadcast-fusion.html" class="title">2018-05-11-extensible-broadcast-fusion</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-06-19-missing.html" class="title">2018-06-19-missing</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-07-08-iterators-in-julia-0.7.html" class="title">2018-07-08-iterators-in-julia-0.7</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-06-GSoC-Final-Summary.html" class="title">2018-08-06-GSoC-Final-Summary</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-08-one-point-zero-es.html" class="title">2018-08-08-one-point-zero-es</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-08-one-point-zero-zh_cn.html" class="title">2018-08-08-one-point-zero-zh_cn</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-08-one-point-zero-zh_tw.html" class="title">2018-08-08-one-point-zero-zh_tw</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-08-one-point-zero.html" class="title">2018-08-08-one-point-zero</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-09-union-splitting.html" class="title">2018-08-09-union-splitting</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-13-adding-newer-features-and-speeding-up-convolutions-in-flux.html" class="title">2018-08-13-adding-newer-features-and-speeding-up-convolutions-in-flux</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-08-14-GSoC2018-speech-recognition.html" class="title">2018-08-14-GSoC2018-speech-recognition</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-09-04-julia-community-prizes.html" class="title">2018-09-04-julia-community-prizes</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-09-11-juliacon2018.html" class="title">2018-09-11-juliacon2018</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-09-12-Pkgtutorial.html" class="title">2018-09-12-Pkgtutorial</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2018-12-03-ml-language-compiler.html" class="title">2018-12-03-ml-language-compiler</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-01-18-fluxdiffeq.html" class="title">2019-01-18-fluxdiffeq</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-02-03-light-graphs.html" class="title">2019-02-03-light-graphs</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-02-12-julia-entities.html" class="title">2019-02-12-julia-entities</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-03-19-debuggers.html" class="title">2019-03-19-debuggers</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-04-04-fluxdiffeq-zh_tw.html" class="title">2019-04-04-fluxdiffeq-zh_tw</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-05-02-beyond-ml-pipelines-with-mlj.html" class="title">2019-05-02-beyond-ml-pipelines-with-mlj</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-05-31-jsoc19.html" class="title">2019-05-31-jsoc19</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-06-18-diffeqbot.html" class="title">2019-06-18-diffeqbot</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-07-23-multithreading.html" class="title">2019-07-23-multithreading</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-07-30-multithreading-zh-cn.html" class="title">2019-07-30-multithreading-zh-cn</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-08-06-2019-julia-survey.html" class="title">2019-08-06-2019-julia-survey</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-08-28-release-process.html" class="title">2019-08-28-release-process</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-09-07-julia-workshop-beijing-zh_cn.html" class="title">2019-09-07-julia-workshop-beijing-zh_cn</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-09-07-julia-workshop-beijing.html" class="title">2019-09-07-julia-workshop-beijing</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-09-07-release-process-zh-cn.html" class="title">2019-09-07-release-process-zh-cn</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-09-16-profilers.html" class="title">2019-09-16-profilers</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/2019-11-19-artifacts.html" class="title">2019-11-19-artifacts</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/GUI_figures.html" class="title">GUI_figures</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/Julia-0.html" class="title">Julia-0</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/moredots.html" class="title">moredots</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/offsetarrays_figures.html" class="title">offsetarrays_figures</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/parallelaccelerator_figures.html" class="title">parallelaccelerator_figures</a>
+</h3>
+</div>
+<div class="col-lg-4 col-md-12 blog">
+<h3>
+<a href="/pub/blog/releaseprocess_figures.html" class="title">releaseprocess_figures</a>
+</h3>
+</div>
+~~~

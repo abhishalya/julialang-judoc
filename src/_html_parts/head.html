@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ fill title }}</title>
+  <meta name="author" content="Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman, et al." />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Official website for the Julia programming language. Join the Julia community today.">
+
+  <meta property="og:title" content="The Julia Language"/>
+  <meta property="og:image" content="http://www.julialang.org/images/julia-open-graph.png"/>
+  <meta property="og:description" content="Official website for the Julia programming language"/>
+
+  {{if hasmath}} {{insert head_katex.html }}     {{end}}
+  {{if hascode}} {{insert head_highlight.html }}   {{end}}
+  {{if hasplotly}} <script src="/libs/plotly/plotly.min.js"></script> {{end}}
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/v2/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/assets/v2/css/app.css" />
+  <link rel="stylesheet" href="/assets/v2/css/fonts.css" />
+  <link rel="stylesheet" href="/assets/v2/css/highlight/github.css" />
+
+  {{ insert google-analytics.html }}
+</head>
+
+<body>
